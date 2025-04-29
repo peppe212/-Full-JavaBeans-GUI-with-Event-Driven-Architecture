@@ -6,13 +6,6 @@ This project was developed for an academic assignment focused on advanced JavaBe
 
 ---
 
-## 🎮 Game Overview
-
-The game displays a board of 8 hidden cards. The player clicks to flip cards face up, attempting to find pairs with matching values.  
-When all pairs are found, the game ends. A Shuffle button resets the game; an Exit button closes it.
-
----
-
 ## 💡 Features
 
 - Fully modular JavaBeans structure
